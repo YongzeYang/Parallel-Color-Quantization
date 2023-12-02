@@ -6,7 +6,7 @@ This project is a final project for CityU's Course CS5488 (Big Data Algorithms a
 
 Color quantization is a method of image segmentation that represents an image using a limited number of colors. Given that an image may contain millions or even billions of pixels, traditional sequential processing algorithms can result in significant time overhead. In this study, we leverage big data platforms such as Hadoop and Spark to implement image color quantization based on k-means clustering through parallel computing. By comparing the results of traditional methods and parallel computing, our experimental results demonstrate that our new method significantly reduces time overhead. Additionally, we compared the effects of varying parameters in the color quantization algorithm, such as the number of colors, on image quality and runtime. We also provide a discussion related to the practical application of color quantization.
 
-![a](_img/b.png)
+![a](_img//b.png)
 
 
 
@@ -20,7 +20,7 @@ Our work is structured around a sequence of experiments, each building upon the 
 
  
 
-![b](_img/a.png)
+![b](_img//a.png)
 
 **Fig 1.2** - Workflow for our color quantization experiment using big data technologies
 
@@ -47,4 +47,16 @@ Initially, we planned to use a virtual machine or cloud server for our experimen
  
 
 The experiment requires Python 3.8 or higher and Java Runtime Environment 11. For baseline and parallel Python experiments, we suggest using a virtual environment. For Hadoop and Spark experiments, Hadoop 2.7 and Spark 3.2.4 are needed. Ensure JAVA_HOME, HADOOP_HOME, and SPARK_HOME paths are set in the environment variables and start all Hadoop services with the start-all command before running the project. If you need to compile your program, install Java Development Kit 11 and Scala 3.3.1, and ensure Maven is available for dependency management in your project.
+
+## References
+
+| No. | References |
+| ---- | ------------------------------------------------------------ |
+| [1]  | Braquelaire,  J. P., & Brun, L. (1997). Comparison and optimization of methods of color  image quantization. IEEE transactions on image processing:a publication of  the IEEE Signal Processing Society, 6(7), 1048–1052.  https://doi.org/10.1109/83.597280 |
+| ---- | ------------------------------------------------------------ |
+| [2]  | Celebi, M. Emre.  (2023). Forty years of color quantization: a modern, algorithmic survey.  Artificial Intelligence Review. 56. 1-82. 10.1007/s10462-023-10406-6 |
+| [3]  | Tirandaz, Z.,  Foster, D.H., Romero, J. et al. (2023). Efficient quantization of painting images by  relevant colors. Sci Rep 13, 3034. https://doi.org/10.1038/s41598-023-29380-8 |
+| [4]  | Su-yu Huang and Bo Zhang. (2021).  Research and improvement of k-means parallel multi-association clustering algorithm.  In Proceedings of the 2020 International Conference on Cyberspace Innovation  of Advanced Technologies (CIAT 2020). Association for Computing Machinery,  New York, NY, USA, 164–168. https://doi.org/10.1145/3444370.3444565 |
+| [5]  | Rawzor. “The New Test Images - Image Compression  Benchmark,”. 2023. [Online]. Available:  https://imagecompression.info/test_images/. [Accessed: Dec. 2, 2023]. |
+
 

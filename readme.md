@@ -6,7 +6,7 @@ This project is a final project for CityU's Course CS5488 (Big Data Algorithms a
 
 Color quantization is a method of image segmentation that represents an image using a limited number of colors. Given that an image may contain millions or even billions of pixels, traditional sequential processing algorithms can result in significant time overhead. In this study, we leverage big data platforms such as Hadoop and Spark to implement image color quantization based on k-means clustering through parallel computing. By comparing the results of traditional methods and parallel computing, our experimental results demonstrate that our new method significantly reduces time overhead. Additionally, we compared the effects of varying parameters in the color quantization algorithm, such as the number of colors, on image quality and runtime. We also provide a discussion related to the practical application of color quantization.
 
-![a](_img\b.png)
+![a](_img/b.png)
 
 
 
@@ -20,7 +20,7 @@ Our work is structured around a sequence of experiments, each building upon the 
 
  
 
-![b](_img\a.png)
+![b](_img/a.png)
 
 **Fig 1.2** - Workflow for our color quantization experiment using big data technologies
 

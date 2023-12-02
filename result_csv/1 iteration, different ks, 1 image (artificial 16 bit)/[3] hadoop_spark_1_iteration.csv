@@ -1,0 +1,16 @@
+file,k,actual_iteration,max_iteration,total_timecost
+artificial_rgb16bit,2,1,1,12.234
+artificial_rgb16bit,4,1,1,12.912
+artificial_rgb16bit,6,1,1,13.831
+artificial_rgb16bit,8,1,1,14.24
+artificial_rgb16bit,12,1,1,17.507
+artificial_rgb16bit,16,1,1,16.272
+artificial_rgb16bit,32,1,1,21.74
+artificial_rgb16bit,48,1,1,26.215
+artificial_rgb16bit,64,1,1,31.843
+artificial_rgb16bit,96,1,1,41.952
+artificial_rgb16bit,128,1,1,52.624
+artificial_rgb16bit,144,1,1,55.89
+artificial_rgb16bit,192,1,1,70.519
+artificial_rgb16bit,208,1,1,74.538
+artificial_rgb16bit,256,1,1,89.701

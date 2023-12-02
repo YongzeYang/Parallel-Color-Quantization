@@ -1,0 +1,16 @@
+datetime,file,cluster_path,new_image_path,image_generation_time_cost,k,actual_iteration
+04:34:15-01/12/2023,artificial_rgb16bit,hadoop_output/artificial_rgb16bit_12/cluster-0/part-r-00000,spark_output/artificial_rgb16bit_12/part-00000,8.317,12,1
+04:34:54-01/12/2023,artificial_rgb16bit,hadoop_output/artificial_rgb16bit_128/cluster-0/part-r-00000,spark_output/artificial_rgb16bit_128/part-00000,39.465,128,1
+04:35:37-01/12/2023,artificial_rgb16bit,hadoop_output/artificial_rgb16bit_144/cluster-0/part-r-00000,spark_output/artificial_rgb16bit_144/part-00000,42.735,144,1
+04:35:44-01/12/2023,artificial_rgb16bit,hadoop_output/artificial_rgb16bit_16/cluster-0/part-r-00000,spark_output/artificial_rgb16bit_16/part-00000,7.072,16,1
+04:36:40-01/12/2023,artificial_rgb16bit,hadoop_output/artificial_rgb16bit_192/cluster-0/part-r-00000,spark_output/artificial_rgb16bit_192/part-00000,55.34,192,1
+04:36:43-01/12/2023,artificial_rgb16bit,hadoop_output/artificial_rgb16bit_2/cluster-0/part-r-00000,spark_output/artificial_rgb16bit_2/part-00000,3.057,2,1
+04:37:42-01/12/2023,artificial_rgb16bit,hadoop_output/artificial_rgb16bit_208/cluster-0/part-r-00000,spark_output/artificial_rgb16bit_208/part-00000,59.377,208,1
+04:38:55-01/12/2023,artificial_rgb16bit,hadoop_output/artificial_rgb16bit_256/cluster-0/part-r-00000,spark_output/artificial_rgb16bit_256/part-00000,72.516,256,1
+04:39:06-01/12/2023,artificial_rgb16bit,hadoop_output/artificial_rgb16bit_32/cluster-0/part-r-00000,spark_output/artificial_rgb16bit_32/part-00000,11.55,32,1
+04:39:10-01/12/2023,artificial_rgb16bit,hadoop_output/artificial_rgb16bit_4/cluster-0/part-r-00000,spark_output/artificial_rgb16bit_4/part-00000,3.752,4,1
+04:39:26-01/12/2023,artificial_rgb16bit,hadoop_output/artificial_rgb16bit_48/cluster-0/part-r-00000,spark_output/artificial_rgb16bit_48/part-00000,16.061,48,1
+04:39:30-01/12/2023,artificial_rgb16bit,hadoop_output/artificial_rgb16bit_6/cluster-0/part-r-00000,spark_output/artificial_rgb16bit_6/part-00000,4.368,6,1
+04:39:51-01/12/2023,artificial_rgb16bit,hadoop_output/artificial_rgb16bit_64/cluster-0/part-r-00000,spark_output/artificial_rgb16bit_64/part-00000,20.685,64,1
+04:39:56-01/12/2023,artificial_rgb16bit,hadoop_output/artificial_rgb16bit_8/cluster-0/part-r-00000,spark_output/artificial_rgb16bit_8/part-00000,5.062,8,1
+04:40:26-01/12/2023,artificial_rgb16bit,hadoop_output/artificial_rgb16bit_96/cluster-0/part-r-00000,spark_output/artificial_rgb16bit_96/part-00000,29.798,96,1

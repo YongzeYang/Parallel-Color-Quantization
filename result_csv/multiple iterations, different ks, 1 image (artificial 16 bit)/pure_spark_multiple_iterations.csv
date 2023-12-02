@@ -1,0 +1,16 @@
+datetime,file,time_cost,k,actual_iteration
+08:08:31-01/12/2023,artificial_rgb16bit,50.127,2,4
+08:12:16-01/12/2023,artificial_rgb16bit,220.45,4,19
+08:14:51-01/12/2023,artificial_rgb16bit,150.636,6,13
+08:17:02-01/12/2023,artificial_rgb16bit,124.803,8,10
+08:19:39-01/12/2023,artificial_rgb16bit,149.688,12,12
+08:32:32-01/12/2023,artificial_rgb16bit,764.726,16,57
+08:39:52-01/12/2023,artificial_rgb16bit,427.419,32,26
+08:48:26-01/12/2023,artificial_rgb16bit,494.549,48,25
+09:01:31-01/12/2023,artificial_rgb16bit,759.959,64,34
+09:25:40-01/12/2023,artificial_rgb16bit,1413.814,96,50
+09:54:59-01/12/2023,artificial_rgb16bit,1715.753,128,51
+10:27:21-01/12/2023,artificial_rgb16bit,1893.181,144,52
+11:28:37-01/12/2023,artificial_rgb16bit,3612.405,192,80
+12:48:43-01/12/2023,artificial_rgb16bit,4739.559,208,100
+13:35:29-01/12/2023,artificial_rgb16bit,2726.415,256,50

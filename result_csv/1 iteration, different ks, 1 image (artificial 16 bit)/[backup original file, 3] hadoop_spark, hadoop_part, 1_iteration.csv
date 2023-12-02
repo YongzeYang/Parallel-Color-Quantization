@@ -1,0 +1,16 @@
+datetime,file,cluster_path,timecost_cluster_calculation,k,actual_iteration,max_iteration
+04:27:21-01/12/2023,artificial_rgb16bit,hadoop_output/artificial_rgb16bit_2/cluster-0/part-r-00000,9.177,2,1,1
+04:27:42-01/12/2023,artificial_rgb16bit,hadoop_output/artificial_rgb16bit_4/cluster-0/part-r-00000,9.16,4,1,1
+04:27:57-01/12/2023,artificial_rgb16bit,hadoop_output/artificial_rgb16bit_6/cluster-0/part-r-00000,9.463,6,1,1
+04:28:31-01/12/2023,artificial_rgb16bit,hadoop_output/artificial_rgb16bit_8/cluster-0/part-r-00000,9.178,8,1,1
+04:29:44-01/12/2023,artificial_rgb16bit,hadoop_output/artificial_rgb16bit_12/cluster-0/part-r-00000,9.19,12,1,1
+04:30:00-01/12/2023,artificial_rgb16bit,hadoop_output/artificial_rgb16bit_16/cluster-0/part-r-00000,9.2,16,1,1
+04:30:16-01/12/2023,artificial_rgb16bit,hadoop_output/artificial_rgb16bit_32/cluster-0/part-r-00000,10.19,32,1,1
+04:30:54-01/12/2023,artificial_rgb16bit,hadoop_output/artificial_rgb16bit_48/cluster-0/part-r-00000,10.154,48,1,1
+04:31:16-01/12/2023,artificial_rgb16bit,hadoop_output/artificial_rgb16bit_64/cluster-0/part-r-00000,11.158,64,1,1
+04:31:37-01/12/2023,artificial_rgb16bit,hadoop_output/artificial_rgb16bit_96/cluster-0/part-r-00000,12.154,96,1,1
+04:31:52-01/12/2023,artificial_rgb16bit,hadoop_output/artificial_rgb16bit_128/cluster-0/part-r-00000,13.159,128,1,1
+04:32:15-01/12/2023,artificial_rgb16bit,hadoop_output/artificial_rgb16bit_144/cluster-0/part-r-00000,13.155,144,1,1
+04:32:39-01/12/2023,artificial_rgb16bit,hadoop_output/artificial_rgb16bit_192/cluster-0/part-r-00000,15.179,192,1,1
+04:32:57-01/12/2023,artificial_rgb16bit,hadoop_output/artificial_rgb16bit_208/cluster-0/part-r-00000,15.161,208,1,1
+04:33:18-01/12/2023,artificial_rgb16bit,hadoop_output/artificial_rgb16bit_256/cluster-0/part-r-00000,17.185,256,1,1

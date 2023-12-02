@@ -1,0 +1,16 @@
+datetime,file,image_generation_time_cost,k,actual_iteration
+10:10:11-21/11/2023,artificial_rgb16bit,8.478,12,1
+10:10:59-21/11/2023,artificial_rgb16bit,47.925,144,1
+10:11:14-21/11/2023,artificial_rgb16bit,14.49,16,8
+10:12:50-21/11/2023,artificial_rgb16bit,96.287,196,18
+10:12:56-21/11/2023,artificial_rgb16bit,5.385,2,4
+10:14:56-21/11/2023,artificial_rgb16bit,120.486,208,22
+10:17:26-21/11/2023,artificial_rgb16bit,149.686,256,18
+10:17:32-21/11/2023,artificial_rgb16bit,5.89,3,4
+10:17:38-21/11/2023,artificial_rgb16bit,6.482,4,6
+10:18:13-21/11/2023,artificial_rgb16bit,34.801,48,15
+10:18:21-21/11/2023,artificial_rgb16bit,7.211,5,7
+10:18:28-21/11/2023,artificial_rgb16bit,7.785,6,13
+10:19:12-21/11/2023,artificial_rgb16bit,43.728,64,16
+10:19:21-21/11/2023,artificial_rgb16bit,9.049,8,5
+10:20:24-21/11/2023,artificial_rgb16bit,62.84,96,14

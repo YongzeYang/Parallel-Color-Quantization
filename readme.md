@@ -53,7 +53,6 @@ The experiment requires Python 3.8 or higher and Java Runtime Environment 11. Fo
 | No. | References |
 | ---- | ------------------------------------------------------------ |
 | [1]  | Braquelaire,  J. P., & Brun, L. (1997). Comparison and optimization of methods of color  image quantization. IEEE transactions on image processing:a publication of  the IEEE Signal Processing Society, 6(7), 1048–1052.  https://doi.org/10.1109/83.597280 |
-| ---- | ------------------------------------------------------------ |
 | [2]  | Celebi, M. Emre.  (2023). Forty years of color quantization: a modern, algorithmic survey.  Artificial Intelligence Review. 56. 1-82. 10.1007/s10462-023-10406-6 |
 | [3]  | Tirandaz, Z.,  Foster, D.H., Romero, J. et al. (2023). Efficient quantization of painting images by  relevant colors. Sci Rep 13, 3034. https://doi.org/10.1038/s41598-023-29380-8 |
 | [4]  | Su-yu Huang and Bo Zhang. (2021).  Research and improvement of k-means parallel multi-association clustering algorithm.  In Proceedings of the 2020 International Conference on Cyberspace Innovation  of Advanced Technologies (CIAT 2020). Association for Computing Machinery,  New York, NY, USA, 164–168. https://doi.org/10.1145/3444370.3444565 |

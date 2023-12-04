@@ -160,7 +160,7 @@ public class KMeansDriver {
 
         @Override
         protected void cleanup(Context context) throws IOException, InterruptedException {
-            // 在cleanup方法中，为每个聚类输出一条数据
+            // Make sure to generate one data for each cluster center
             for (int i = 0; i < clusters.size(); i++) {
                 context.write(new IntWritable(i), new Text(clusters.get(i).get(0) + "," + clusters.get(i).get(1) + "," + clusters.get(i).get(2)));
             }
@@ -172,6 +172,7 @@ public class KMeansDriver {
     public static class KMeansReducer extends Reducer<IntWritable, Text, NullWritable, Text> {
         private ArrayList<ArrayList<Integer>> oldClusters;
 
+        // Read cluster centers from cache
         protected ArrayList<ArrayList<Integer>> readClustersFromCache(int K, Context context) throws IOException {
             ArrayList<ArrayList<Integer>> clusters = new ArrayList<ArrayList<Integer>>();
             URI[] cacheFiles = context.getCacheFiles();

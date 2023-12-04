@@ -2,6 +2,8 @@
 
 This project is a final project for CityU's Course CS5488 (Big Data Algorithms and Technologies).
 
+See our PDF report for full detailed information.
+
 ## Introduction
 
 Color quantization is a method of image segmentation that represents an image using a limited number of colors. Given that an image may contain millions or even billions of pixels, traditional sequential processing algorithms can result in significant time overhead. In this study, we leverage big data platforms such as Hadoop and Spark to implement image color quantization based on k-means clustering through parallel computing. By comparing the results of traditional methods and parallel computing, our experimental results demonstrate that our new method significantly reduces time overhead. Additionally, we compared the effects of varying parameters in the color quantization algorithm, such as the number of colors, on image quality and runtime. We also provide a discussion related to the practical application of color quantization.
@@ -47,6 +49,18 @@ Initially, we planned to use a virtual machine or cloud server for our experimen
  
 
 The experiment requires Python 3.8 or higher and Java Runtime Environment 11. For baseline and parallel Python experiments, we suggest using a virtual environment. For Hadoop and Spark experiments, Hadoop 2.7 and Spark 3.2.4 are needed. Ensure JAVA_HOME, HADOOP_HOME, and SPARK_HOME paths are set in the environment variables and start all Hadoop services with the start-all command before running the project. If you need to compile your program, install Java Development Kit 11 and Scala 3.3.1, and ensure Maven is available for dependency management in your project.
+
+## Dataset Availability
+
+The original dataset can be downloaded at the following URL: 
+https://imagecompression.info/test_images/
+
+We selected RGB images from the original dataset. For the dataset we used, it is available for download at the link below:
+https://drive.google.com/file/d/1P0heLnF67NreUprIO2VLmf_zqRCxNaJ6/view?usp=sharing
+
+We converted these images to csv format and they were decompressed to 4.05 GB in size and these processed images in csv format can be accessed in Google Drive at the following URL:
+https://drive.google.com/file/d/1McngLH9i6VASdI9iGaCBjeLOTfYkceQ-/view?usp=drive_link
+
 
 ## References
 

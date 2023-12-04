@@ -139,7 +139,7 @@ object PureScala {
 
       val rand = new Random()
 
-      // 生成k个Vector，每个Vector有三个整数值，范围是0-255
+      // Generate k Vectors, each Vector have 3 values range from 0-255
       var centers = Array.fill(k)(Vector(rand.nextInt(256), rand.nextInt(256), rand.nextInt(256)))
 
       // var centers = data.takeSample(withReplacement = false, k, 99)
@@ -147,7 +147,7 @@ object PureScala {
       val minDist = 1e-6
       var d = 1 + minDist // iteration num
       var njlc = 1
-      val maxIter = 100 // 指定的最大迭代次数
+      val maxIter = 100 // max iteration times
 
       val startTime = System.currentTimeMillis()
 
